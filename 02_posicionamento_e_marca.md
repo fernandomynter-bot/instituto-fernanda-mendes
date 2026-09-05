@@ -1,4 +1,6 @@
-﻿# 🎯 Posicionamento, Marca e Domínio — Instituto Fernanda Mendes
+# 🎯 Posicionamento, Marca e Domínio — Instituto Fernanda Mendes
+
+> **Atualização do institucional — 05/09/2026 (orientação de Fernando):** a página inicial apresenta o Instituto como educação e apoio aos estudos na saúde, com a mensagem “Seus estudos na saúde, com mais clareza e direção”. SUS e legislação permanecem como temas dos produtos iniciais, sem limitar toda a marca ou a página institucional. As propostas de promessa exclusiva e de página inicial abaixo são registros do planejamento anterior, não a orientação vigente para a home. Não apresentar cursos planejados como turmas abertas nem usar números de resultados sem confirmação.
 
 ## 1. Identidade e Promessa Central
 * **Nome de Marca:** Instituto Fernanda Mendes
