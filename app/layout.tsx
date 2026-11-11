@@ -3,11 +3,11 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://institutofernandamendes.com.br"),
-  title: "Instituto Fernanda Mendes | Educação e Estudos na Saúde",
-  description: "Facilitando seus estudos na saúde com a Profª Fernanda Mendes. Conheça sua trajetória, materiais, aulas e novas oportunidades de aprendizado.",
+  title: "Professora Fernanda Mendes | Concursos da Saúde",
+  description: "Escolha seu próximo passo com a professora Fernanda Mendes: grupo gratuito, webinário de SUS, app Rota Saúde e e-book gratuito de SUS e legislação.",
   alternates: { canonical: "/" },
-  openGraph: { title: "Instituto Fernanda Mendes", description: "Conhecimento que transforma trajetórias na saúde.", type: "website", locale: "pt_BR", siteName: "Instituto Fernanda Mendes", images: [{ url: "/og.jpg", width: 1200, height: 630, alt: "Instituto Fernanda Mendes" }] },
-  twitter: { card: "summary_large_image", title: "Instituto Fernanda Mendes", description: "Conhecimento que transforma trajetórias na saúde.", images: ["/og.jpg"] },
+  openGraph: { title: "Professora Fernanda Mendes", description: "Seu próximo passo nos concursos da saúde começa aqui. Conheça os conteúdos e produtos do Instituto.", type: "website", locale: "pt_BR", siteName: "Instituto Fernanda Mendes", images: [{ url: "/fernanda-profissional.png", width: 1254, height: 1254, alt: "Professora Fernanda Mendes" }] },
+  twitter: { card: "summary_large_image", title: "Professora Fernanda Mendes", description: "Grupo gratuito, webinário, app Rota Saúde e e-book gratuito de SUS.", images: ["/fernanda-profissional.png"] },
   icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
 };
 
